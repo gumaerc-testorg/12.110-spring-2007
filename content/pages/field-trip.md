@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Field Trip
 uid: 9da9bfb1-38fe-1db6-a4b6-3ef88b8243cf
 ---

@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: Lecture notes about limestones.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/12-110-sedimentary-geology-spring-2007/b66608c6883c8d1512c36e49504f8b7a_ch5.pdf
+file: /media/courses/12-110-sedimentary-geology-spring-2007/b66608c6883c8d1512c36e49504f8b7a_ch5.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: ch5.pdf
 uid: b66608c6-883c-8d15-12c3-6e49504f8b7a

@@ -1,8 +1,12 @@
 ---
 content_type: resource
 description: Sample student Field Trip Report.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/12-110-sedimentary-geology-spring-2007/43ee7b8e76e023d1fbe504bd282f7eb2_slotznick_1.pdf
+file: /media/courses/12-110-sedimentary-geology-spring-2007/43ee7b8e76e023d1fbe504bd282f7eb2_slotznick_1.pdf
 file_type: application/pdf
+learning_resource_types: []
+ocw_type: OCWFile
+parent_title: Field Trip
+parent_type: CourseSection
 resourcetype: Document
 title: slotznick_1.pdf
 uid: 43ee7b8e-76e0-23d1-fbe5-04bd282f7eb2
