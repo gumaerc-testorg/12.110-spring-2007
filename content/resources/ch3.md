@@ -5,6 +5,7 @@ file: /courses/12-110-sedimentary-geology-spring-2007/1b78c74af7ef300050b88a24ad
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: ch3.pdf
 uid: 1b78c74a-f7ef-3000-50b8-8a24adfaa78d
 ---
 Lecture notes about sedimentary structures.
-

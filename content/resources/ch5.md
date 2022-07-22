@@ -5,6 +5,7 @@ file: /courses/12-110-sedimentary-geology-spring-2007/b66608c6883c8d1512c36e4950
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: ch5.pdf
 uid: b66608c6-883c-8d15-12c3-6e49504f8b7a
 ---
 Lecture notes about limestones.
-
