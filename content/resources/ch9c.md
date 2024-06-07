@@ -2,6 +2,7 @@
 content_type: resource
 description: Lecture notes about paleontology.
 file: /courses/12-110-sedimentary-geology-spring-2007/071337e4b0df3e3aec312505fcc765fe_ch9c.pdf
+file_size: 55007
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
