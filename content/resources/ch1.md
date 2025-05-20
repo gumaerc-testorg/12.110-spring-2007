@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture notes about the nature, description, and classification of sediments.
-file: /ol-ocw-studio-app/courses/12-110-sedimentary-geology-spring-2007/53152e7892f4fb1c2eb1b94f19362e6d_ch1.pdf
+file: /courses/12-110-sedimentary-geology-spring-2007/53152e7892f4fb1c2eb1b94f19362e6d_ch1.pdf
 file_size: 1112232
 file_type: application/pdf
 learning_resource_types:
