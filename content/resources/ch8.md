@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture notes about stratigraphy.
-file: /ol-ocw-studio-app/courses/12-110-sedimentary-geology-spring-2007/8270dd2992e52d6e834efe19038dcf61_ch8.pdf
+file: /courses/12-110-sedimentary-geology-spring-2007/8270dd2992e52d6e834efe19038dcf61_ch8.pdf
 file_size: 3458911
 file_type: application/pdf
 learning_resource_types:
