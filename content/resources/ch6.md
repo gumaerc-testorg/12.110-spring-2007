@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture notes about cherts and evaporites.
-file: /ol-ocw-studio-app/courses/12-110-sedimentary-geology-spring-2007/829f367ea5b7947bf4652c6776fc9dac_ch6.pdf
+file: /courses/12-110-sedimentary-geology-spring-2007/829f367ea5b7947bf4652c6776fc9dac_ch6.pdf
 file_size: 498078
 file_type: application/pdf
 learning_resource_types:

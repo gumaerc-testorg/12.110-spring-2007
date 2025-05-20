@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture notes about diagenesis.
-file: /ol-ocw-studio-app/courses/12-110-sedimentary-geology-spring-2007/3533ecd971cc08f0571d66d2a8edd477_ch7.pdf
+file: /courses/12-110-sedimentary-geology-spring-2007/3533ecd971cc08f0571d66d2a8edd477_ch7.pdf
 file_size: 1147652
 file_type: application/pdf
 learning_resource_types:
